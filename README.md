@@ -37,7 +37,7 @@ npm run dev
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tokopedia-clone.git
+git clone https://github.com/richbruh/tokopedia-clone.git
 cd tokopedia-clone
 
 ## Pages and Descriptions
